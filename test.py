@@ -1,2 +1,2 @@
 #this is a python test file
-print("Test file")
+print("Test from pull")
